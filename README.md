@@ -4,7 +4,7 @@
   <img src="picture.png" alt="Debarun Chakraborty" width="180" style="border-radius: 50%;" />
 </p>
 
-📧 chakrabortydebarun0123@gmail.com  
+
 🔗 [LinkedIn](https://www.linkedin.com/in/debarun-chakraborty-878389135/)  
 📚 [Google Scholar](https://scholar.google.com/citations?user=bsAY7NwAAAAJ&hl=en)  
 🆔 [ORCID](https://orcid.org/0000-0003-0271-1730)  
@@ -44,7 +44,7 @@ Ph.D. researcher (pursuing) at Tezpur University specializing in **Computer Visi
 
 ## 🎓 Education
 
-- **Ph.D. (Pursuing)** – Tezpur University (2020–2025)  
+- **Ph.D.** – Tezpur University (2020–2025)  
   *Computer Vision & Deep Learning*  
   - Thesis: UAV-based Smart Horticulture Yield Prediction
 
@@ -70,11 +70,14 @@ Ph.D. researcher (pursuing) at Tezpur University specializing in **Computer Visi
 ## 📄 Publications
 
 ### 📝 Journals
-- IEEE Transactions on Artificial Intelligence (2025)  
-- IEEE Transactions on AgriFood Electronics (2024)  
-- IEEE Sensors Letters (2026)  
-- Next Research (2026)  
-- Multidisciplinary Research Journal (2025)
+- B. Deka, Chakraborty, Debarun, and B. D. Baro, “Uavlitchi: A uav-based benchmark dataset for litchi fruit segmentation and detection in natural environment,” Next Research, p. 101 479, 2026. 
+- R. K. Roy, K. Sarma, Chakraborty, Debarun, A. Sarkar, and T. Bezboruah, “Development of non-contact and real-time thickness measurement system of a solid object based on ultrasonic sensing method,” IEEE Sensors Letters, 2026.
+- D. Chakraborty and B. Deka, “Deep learning-based selective feature fusion for litchi fruit detection using multimodal uav sensor measurements,” IEEE Transactions on Artificial Intelligence, vol. 6, no. 7, pp. 1932–1942, 2025.
+- S. Pohthmi, B. Deka, M. K. Hazarika, and Chakraborty, Debarun, “Early detection of bruises in khasi mandarin (citrus reticulata blanco) for the assessment of post harvesting losses: A machine learning approach,” Multidisciplinary Research Journal, vol. 1, no. 1, pp. 42–52, 2025.
+- Deka and Chakraborty, Debarun, “UAV sensing-based litchi segmentation using modified mask-rcnn for precision agriculture,” IEEE Transactions on AgriFood Electronics, vol. 2, no. 2,
+pp. 509–517, 2024.  doi: 10.1109/TAFE.2024.3420028.
+- K. Sarma, F. Pyrtuh, and Chakraborty, Debarun, “Speaker verification system using wavelet transform and neural network for short utterances,” Asian Journal For Convergence In Technology
+(AJCT) ISSN-2350-1146, vol. 6, no. 1, pp. 30–35, 2020.
 
 ### 📢 Conferences
 - IEEE APSCON (2023)  
