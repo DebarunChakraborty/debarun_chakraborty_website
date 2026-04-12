@@ -3,8 +3,17 @@
   <img src="picture.png" alt="Debarun Chakraborty" width="180" style="border-radius: 50%;" />
 </p>
 
-🔗 [LinkedIn](https://www.linkedin.com/in/debarun-chakraborty-878389135/)  📚 [Google Scholar](https://scholar.google.com/citations?user=bsAY7NwAAAAJ&hl=en)  🆔 [ORCID](https://orcid.org/0000-0003-0271-1730)  
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/debarun-chakraborty-878389135/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=bsAY7NwAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4CAF50?style=for-the-badge&logo=googlescholar"/>
+  </a>
+  <a href="https://orcid.org/0000-0003-0271-1730">
+    <img src="https://img.shields.io/badge/ORCID-ID-A6CE39?style=for-the-badge&logo=orcid"/>
+  </a>
+</p>
 ---
 
 ## 🎓 About Me
@@ -18,7 +27,7 @@ Computer Vision, Deep Learning, Precision Agriculture, UAV-based Imaging, Multim
 
 ---
 
-## 🆕 Recent Features
+## 🆕 Featured
 
 <p align="center">
   <table>
