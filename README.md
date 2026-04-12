@@ -43,21 +43,17 @@ Mr Debarun Chakraborty is currently pursuing his Ph.D. at the Intelligent Imagin
 
 - **Ph.D.** – Tezpur University (2020–2025)  
   Area of research: *Computer Vision & Deep Learning*
-  <p align="justify">
   Thesis Title: Development of Deep Learning-based Techniques for Smart Horticulture Yield Prediction and Monitoring using Unmanned Aerial Vehicle Images. (Pre-Thesis Completed)
-  </p>
+  
 
 - **M.Tech (ECE)** – NEHU (2017–2019)  
   Area: *Machine Learning*
-  <p align="justify">
   Project title: Supervised and Unsupervised Blind Source Separation of multi-channel mixed signal using ICA and Deep Clustering K-means Algorithm.
-  </p>
 
 - **M.Sc (ECT)** – Gauhati University (2014–2016)  
  Area:  *Embedded Systems*
-<p align="justify">
-  Project title: Android application-based monitoring and controlling of movement of a remotely controlled robotic car mounted with various sensors via Bluetooth.
-</p>
+ Project title: Android application-based monitoring and controlling of movement of a remotely controlled robotic car mounted with various sensors via Bluetooth.
+
 ---
 
 ## 🔬 Research Interests
