@@ -13,9 +13,10 @@
 Mr Debarun Chakraborty is currently pursuing his Ph.D. at the Intelligent Imaging and Vision Research Laboratory (IIVRL), Department of Electronics and Communication Engineering, Tezpur University. His research focuses on deep learning applications in precision agriculture, with an emphasis on utilizing UAV-based sensing imagery and multimodal data fusion. He is particularly interested in designing optimised fusion architectures on CUDA-enabled GPGPU systems to advance deep learning models for both precision agriculture and biomedical applications. Through his expertise, Mr. Chakraborty has developed innovative approaches for data analysis and interpretation, leading to significant improvements in crop management and EEG signal analysis for mental health disorder detection. He is also currently serving as a Project Research Scientist-C in the Department of ECE, Tezpur University, under an ICMR-funded project. His work in this project focuses on the design and development of multimodal deep learning models that utilize Ear-EEG and Photoplethysmography (PPG) signals to build an AI-based mental health alert system integrated with a smartphone application. In addition to his research, he demonstrated strong leadership as the Chairperson of the IEEE Student Branch at Tezpur University (2021–2023), actively contributing to the academic and professional development of the student community.
 </p>
 ---
-## 🔬 Research Interests
 
+## 🔬 Research Interests
 Computer Vision, Deep Learning, Precision Agriculture, UAV-based Imaging, Multimodal Data Fusion, Signal Processing  
+
 ---
 
 ## 🆕 Recent Features
