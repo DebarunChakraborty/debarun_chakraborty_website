@@ -21,36 +21,17 @@
 <table>
 <tr>
 <td width="30%" align="center">
-  <img src="https://your-image-url.com/profile.jpg" width="180" style="border-radius: 50%;"><br><br>
+  <img src="profile.jpg" width="180" style="border-radius: 50%;"><br><br>
   <img src="https://img.shields.io/badge/PhD%20Researcher-Tezpur%20University-blue?style=for-the-badge"/>
 </td>
 
 <td width="70%">
 <p align="justify">
-
-<b>Mr Debarun Chakraborty</b> is currently pursuing his <b>Ph.D.</b> at the 
-<b>Intelligent Imaging and Vision Research Laboratory (IIVRL)</b>, Department of 
-Electronics and Communication Engineering, Tezpur University. 
-
-His research focuses on <b>Deep Learning for Precision Agriculture</b>, leveraging 
-<b>UAV-based sensing imagery</b> and <b>multimodal data fusion</b>. He is particularly 
-interested in designing <b>optimized fusion architectures</b> on 
-<b>CUDA-enabled GPGPU systems</b> to advance intelligent models for both 
-<b>agriculture</b> and <b>biomedical applications</b>.
-
-He has developed innovative solutions for <b>crop management</b> and 
-<b>EEG-based mental health disorder detection</b>, significantly improving 
-data analysis and interpretation.
-
-Currently, he serves as a <b>Project Research Scientist-C</b> at Tezpur University 
-under an <b>ICMR-funded project</b>, focusing on <b>multimodal deep learning</b> 
-using <b>Ear-EEG</b> and <b>Photoplethysmography (PPG)</b> to develop an 
-<b>AI-based mental health alert system</b> integrated with smartphone applications.
-
-In addition, he demonstrated strong leadership as the 
-<b>Chairperson of the IEEE Student Branch</b> (2021–2023), actively contributing 
-to academic and professional development initiatives.
-
+<b>Mr Debarun Chakraborty</b> is currently pursuing his <b>Ph.D.</b> at the <b>Intelligent Imaging and Vision Research Laboratory (IIVRL)</b>, Department of Electronics and Communication Engineering, Tezpur University. 
+His research focuses on <b>Deep Learning for Precision Agriculture</b>, leveraging <b>UAV-based sensing imagery</b> and <b>multimodal data fusion</b>. He is particularly interested in designing <b>optimized fusion architectures</b> on <b>CUDA-enabled GPGPU systems</b> to advance intelligent models for both <b>agriculture</b> and <b>biomedical applications</b>.
+He has developed innovative solutions for <b>crop management</b> and <b>EEG-based mental health disorder detection</b>, significantly improving data analysis and interpretation.
+Currently, he serves as a <b>Project Research Scientist-C</b> at Tezpur University under an <b>ICMR-funded project</b>, focusing on <b>multimodal deep learning </b> using <b>Ear-EEG</b> and <b>Photoplethysmography (PPG)</b> to develop an <b>AI-based mental health alert system</b> integrated with smartphone applications.
+In addition, he demonstrated strong leadership as the <b>Chairperson of the IEEE Student Branch</b> (2021–2023), actively contributing to academic and professional development initiatives.
 </p>
 </td>
 </tr>
