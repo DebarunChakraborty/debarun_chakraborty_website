@@ -45,13 +45,13 @@ Mr Debarun Chakraborty is currently pursuing his Ph.D. at the Intelligent Imagin
   Area of research: *Computer Vision & Deep Learning*
   <p align="justify">
   Thesis Title: Development of Deep Learning-based Techniques for Smart Horticulture Yield Prediction and Monitoring using Unmanned Aerial Vehicle Images. (Pre-Thesis Completed)
-</p>
+  </p>
 
 - **M.Tech (ECE)** – NEHU (2017–2019)  
   Area: *Machine Learning*
   <p align="justify">
   Project title: Supervised and Unsupervised Blind Source Separation of multi-channel mixed signal using ICA and Deep Clustering K-means Algorithm.
-</p>
+  </p>
 
 - **M.Sc (ECT)** – Gauhati University (2014–2016)  
  Area:  *Embedded Systems*
@@ -69,58 +69,59 @@ Computer Vision, Deep Learning, Precision Agriculture, UAV-based Imaging, Multim
 
 ## 💡 Patent
 <p align="justify">
-- Debarun Chakraborty and Bhabesh Deka; Invention Title: A vision-based photogrammetric measurement system for Litchi crop management automation, Application no. 202431081191 A. (Published
+1. Debarun Chakraborty and Bhabesh Deka; Invention Title: A vision-based photogrammetric measurement system for Litchi crop management automation, Application no. 202431081191 A. (Published
 on 24 Oct. 2024)
 </p>
 ---
 
 ### 📝 Journals
 <p align="justify">
-- B. Deka, Chakraborty, Debarun, and B. D. Baro, “Uavlitchi: A uav-based benchmark dataset for litchi fruit segmentation and detection in natural environment,” Next Research, p. 101 479, 2026. 
+1.  B. Deka, Chakraborty, Debarun, and B. D. Baro, “Uavlitchi: A uav-based benchmark dataset for litchi fruit segmentation and detection in natural environment,” Next Research, p. 101 479, 2026. 
 </p>
 <p align="justify">
-- R. K. Roy, K. Sarma, Chakraborty, Debarun, A. Sarkar, and T. Bezboruah, “Development of non-contact and real-time thickness measurement system of a solid object based on ultrasonic sensing method,” IEEE Sensors Letters, 2026.
+2.  R. K. Roy, K. Sarma, Chakraborty, Debarun, A. Sarkar, and T. Bezboruah, “Development of non-contact and real-time thickness measurement system of a solid object based on ultrasonic sensing method,” IEEE Sensors Letters, 2026.
 </p>
 <p align="justify">
-- D. Chakraborty and B. Deka, “Deep learning-based selective feature fusion for litchi fruit detection using multimodal uav sensor measurements,” IEEE Transactions on Artificial Intelligence, vol. 6, no. 7, pp. 1932–1942, 2025.
+3.  D. Chakraborty and B. Deka, “Deep learning-based selective feature fusion for litchi fruit detection using multimodal uav sensor measurements,” IEEE Transactions on Artificial Intelligence, vol. 6, no. 7, pp. 1932–1942, 2025.
 </p>
 <p align="justify">
-- S. Pohthmi, B. Deka, M. K. Hazarika, and Chakraborty, Debarun, “Early detection of bruises in khasi mandarin (citrus reticulata blanco) for the assessment of post harvesting losses: A machine learning approach,” Multidisciplinary Research Journal, vol. 1, no. 1, pp. 42–52, 2025.
+4.  S. Pohthmi, B. Deka, M. K. Hazarika, and Chakraborty, Debarun, “Early detection of bruises in khasi mandarin (citrus reticulata blanco) for the assessment of post harvesting losses: A machine learning approach,” Multidisciplinary Research Journal, vol. 1, no. 1, pp. 42–52, 2025.
 </p>
 <p align="justify">
-- Deka and Chakraborty, Debarun, “UAV sensing-based litchi segmentation using modified mask-rcnn for precision agriculture,” IEEE Transactions on AgriFood Electronics, vol. 2, no. 2,
+5.  Deka and Chakraborty, Debarun, “UAV sensing-based litchi segmentation using modified mask-rcnn for precision agriculture,” IEEE Transactions on AgriFood Electronics, vol. 2, no. 2,
 pp. 509–517, 2024.  doi: 10.1109/TAFE.2024.3420028.
 </p>
 <p align="justify">
-- K. Sarma, F. Pyrtuh, and Chakraborty, Debarun, “Speaker verification system using wavelet transform and neural network for short utterances,” Asian Journal For Convergence In Technology
+6.  K. Sarma, F. Pyrtuh, and Chakraborty, Debarun, “Speaker verification system using wavelet transform and neural network for short utterances,” Asian Journal For Convergence In Technology
 (AJCT) ISSN-2350-1146, vol. 6, no. 1, pp. 30–35, 2020.
  </p> 
+
+## 📘 Book Chapter
+1.  Chakraborty, Debarun and B. Deka, “Litchi Fruit Instance Segmentation from UAV Sensed Images Using Spatial Attention-Based Deep Learning Model,” in Pattern Recognition and Machine Intelligence, S. Das, K. Deb, et al., Eds., Cham: Springer, 2023, pp. 862–870.
+
  
 ### 📢 Conferences
 <p align="justify">
-- Chakraborty, Debarun and B. Deka, “Photogrammetry-based litchi tree crown area estimation using UAV optical sensor,” in INTERNATIONAL CONFERENCE ON DEVICES, SENSORS AND SYSTEMS
+1.  Chakraborty, Debarun and B. Deka, “Photogrammetry-based litchi tree crown area estimation using UAV optical sensor,” in INTERNATIONAL CONFERENCE ON DEVICES, SENSORS AND SYSTEMS
 (CODSS), 2024 (Accepted for proceedings), Best Paper in poster Category; Track: System.
 </p>
 <p align="justify">
-- Chakraborty, Debarun and B. Deka, “UAV sensing-based semantic image segmentation of litchi tree crown using deep learning,” in 2023 IEEE Applied Sensing Conference (APSCON), IEEE, 2023, pp. 1–3.
+2.  Chakraborty, Debarun and B. Deka, “UAV sensing-based semantic image segmentation of litchi tree crown using deep learning,” in 2023 IEEE Applied Sensing Conference (APSCON), IEEE, 2023, pp. 1–3.
 </p>
 <p align="justify">
-- Chakraborty, Debarun and K. Sharma, “A study on blind source separation using ICA algorithm in terms of invertible system’.,” vol. 6, 2019, pp. 2350–0077.
+3.  Chakraborty, Debarun and K. Sharma, “A study on blind source separation using ICA algorithm in terms of invertible system’.,” vol. 6, 2019, pp. 2350–0077.
 </p>
 <p align="justify">
-- Chakraborty, Debarun, “Design and implementation of colour objects sorting robotics system based on programmable color light-to-frequency converter technique.,” in TECHNOVA-2016, Krishi
+4.  Chakraborty, Debarun, “Design and implementation of colour objects sorting robotics system based on programmable color light-to-frequency converter technique.,” in TECHNOVA-2016, Krishi
 Sanskritti Publication, New Delhi, India., 2016.
 </p>
 <p align="justify">
-- Chakraborty, Debarun, K. Sharma, R. K. Roy, H. Singh, and T. Bezboruah, “Android application based monitoring and controlling of movement of a remotely controlled robotic car mounted with
+5.  Chakraborty, Debarun, K. Sharma, R. K. Roy, H. Singh, and T. Bezboruah, “Android application based monitoring and controlling of movement of a remotely controlled robotic car mounted with
 various sensors via bluetooth,” in 2016 International Conference on Advances in Electrical, Electronic and Systems Engineering (ICAEES), IEEE, 2016, pp. 170–175.
 </p>
 ---
 
-## 📘 Book Chapter
-- Chakraborty, Debarun and B. Deka, “Litchi Fruit Instance Segmentation from UAV Sensed Images Using Spatial Attention-Based Deep Learning Model,” in Pattern Recognition and Machine Intelligence, S. Das, K. Deb, et al., Eds., Cham: Springer, 2023, pp. 862–870.
 
----
 
 
 ## 🚀 Projects
