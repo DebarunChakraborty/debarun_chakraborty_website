@@ -21,17 +21,19 @@ Computer Vision, Deep Learning, Precision Agriculture, UAV-based Imaging, Multim
 ## 🆕 Recent Features
 
 <p align="center">
-  <img src="https://your-image-url.com/feature1.png" alt="Feature 1" width="250"/>
-  <img src="https://your-image-url.com/feature2.png" alt="Feature 2" width="250"/>
-  <img src="https://your-image-url.com/feature3.png" alt="Feature 3" width="250"/>
+  <table>
+    <tr>
+      <td align="center" style="padding-right: 20px;">
+        <img src="Apscon.png" width="250" height="200" style="object-fit: cover;"/><br>
+        <b>IEEE APSCON 2023</b>
+      </td>
+      <td align="center">
+        <img src="Premi.png" width="250" height="200" style="object-fit: cover;"/><br>
+        <b>PREMI 2023 Conference</b>
+      </td>
+    </tr>
+  </table>
 </p>
-
-<p align="center">
-  <b>UAV-based Litchi Detection</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Multimodal Fusion Model</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>EEG-based Mental Health System</b>
-</p>
-
 ---
 ## 💼 Employment History
 
