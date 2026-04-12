@@ -1,5 +1,9 @@
 # 👨‍💻 Debarun Chakraborty
 
+<p align="center">
+  <img src="picture.png" alt="Debarun Chakraborty" width="180" style="border-radius: 50%;" />
+</p>
+
 📧 chakrabortydebarun0123@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/debarun-chakraborty-878389135/)  
 📚 [Google Scholar](https://scholar.google.com/citations?user=bsAY7NwAAAAJ&hl=en)  
