@@ -23,7 +23,7 @@ Mr Debarun Chakraborty is currently pursuing his Ph.D. at the Intelligent Imagin
 ---
 
 ## 🔬 Research Interests
-Computer Vision, Deep Learning, Precision Agriculture, UAV-based Imaging, Multimodal Data Fusion, Signal Processing  
+Computer Vision, Deep Learning, Precision Agriculture, Bio-medical signal processing  
 
 ---
 
