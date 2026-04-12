@@ -3,7 +3,6 @@
   <img src="picture.png" alt="Debarun Chakraborty" width="180" style="border-radius: 50%;" />
 </p>
 
-
 🔗 [LinkedIn](https://www.linkedin.com/in/debarun-chakraborty-878389135/)  📚 [Google Scholar](https://scholar.google.com/citations?user=bsAY7NwAAAAJ&hl=en)  🆔 [ORCID](https://orcid.org/0000-0003-0271-1730)  
 
 ---
