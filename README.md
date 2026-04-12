@@ -1,4 +1,3 @@
-# 👨‍💻 Debarun Chakraborty
 
 <p align="center">
   <img src="picture.png" alt="Debarun Chakraborty" width="180" style="border-radius: 50%;" />
@@ -13,7 +12,7 @@
 ---
 
 ## 🎓 About Me
-Ph.D. researcher (pursuing) at Tezpur University specializing in **Computer Vision, Deep Learning, and UAV-based Smart Agriculture Systems**. My research focuses on developing intelligent, non-invasive solutions for **crop monitoring, yield prediction, and precision agriculture** using multimodal data.
+Mr Debarun Chakraborty is currently pursuing his Ph.D. at the Intelligent Imaging and Vision Research Laboratory (IIVRL), Department of Electronics and Communication Engineering, Tezpur University. His research focuses on deep learning applications in precision agriculture, with an emphasis on utilizing UAV-based sensing imagery and multimodal data fusion. He is particularly interested in designing optimised fusion architectures on CUDA-enabled GPGPU systems to advance deep learning models for both precision agriculture and biomedical applications. Through his expertise, Mr. Chakraborty has developed innovative approaches for data analysis and interpretation, leading to significant improvements in crop management and EEG signal analysis for mental health disorder detection. He is also currently serving as a Project Research Scientist-C in the Department of ECE, Tezpur University, under an ICMR-funded project. His work in this project focuses on the design and development of multimodal deep learning models that utilize Ear-EEG and Photoplethysmography (PPG) signals to build an AI-based mental health alert system integrated with a smartphone application. In addition to his research, he demonstrated strong leadership as the Chairperson of the IEEE Student Branch at Tezpur University (2021–2023), actively contributing to the academic and professional development of the student community.
 
 ---
 
@@ -80,35 +79,44 @@ pp. 509–517, 2024.  doi: 10.1109/TAFE.2024.3420028.
 (AJCT) ISSN-2350-1146, vol. 6, no. 1, pp. 30–35, 2020.
 
 ### 📢 Conferences
-- IEEE APSCON (2023)  
-- CODSS (Best Poster Award, 2024)  
-- ICAEES (2016)
+- Chakraborty, Debarun and B. Deka, “Photogrammetry-based litchi tree crown area estimation using UAV optical sensor,” in INTERNATIONAL CONFERENCE ON DEVICES, SENSORS AND SYSTEMS
+(CODSS), 2024 (Accepted for proceedings), Best Paper in poster Category; Track: System.
+- Chakraborty, Debarun and B. Deka, “UAV sensing-based semantic image segmentation of litchi tree crown using deep learning,” in 2023 IEEE Applied Sensing Conference (APSCON), IEEE, 2023, pp. 1–3.
+- Chakraborty, Debarun and K. Sharma, “A study on blind source separation using ICA algorithm in terms of invertible system’.,” vol. 6, 2019, pp. 2350–0077.
+- Chakraborty, Debarun, “Design and implementation of colour objects sorting robotics system based on programmable color light-to-frequency converter technique.,” in TECHNOVA-2016, Krishi
+Sanskritti Publication, New Delhi, India., 2016.
+- Chakraborty, Debarun, K. Sharma, R. K. Roy, H. Singh, and T. Bezboruah, “Android application based monitoring and controlling of movement of a remotely controlled robotic car mounted with
+various sensors via bluetooth,” in 2016 International Conference on Advances in Electrical, Electronic and Systems Engineering (ICAEES), IEEE, 2016, pp. 170–175.
 
 ---
 
 ## 📘 Book Chapter
-- Springer (2023): *Litchi Fruit Instance Segmentation using Attention-based Deep Learning*
+- Chakraborty, Debarun and B. Deka, “Litchi Fruit Instance Segmentation from UAV Sensed Images Using Spatial Attention-Based Deep Learning Model,” in Pattern Recognition and Machine Intelligence, S. Das, K. Deb, et al., Eds., Cham: Springer, 2023, pp. 862–870.
 
 ---
 
 ## 💡 Patent
 
-- **Vision-based Photogrammetric Measurement System for Litchi Crop Management**  
-  - Application No.: 202431081191 A (Published: Oct 2024)
+- Debarun Chakraborty and Bhabesh Deka; Invention Title: A vision-based photogrammetric measurement system for Litchi crop management automation, Application no. 202431081191 A. (Published
+on 24 Oct. 2024)
 
 ---
 
 ## 🚀 Projects
 
 ### 🌱 Deep Learning & Signal Processing
-- Blind source separation using ICA and deep clustering  
+- Blind source separation using ICA and deep clustering
+- Title: Supervised and Unsupervised Blind Source separation of mixed signal using ICAand deep clustering Kmeans Algorithm.
 - Tools: Python, TensorFlow, MATLAB
 
 ### 🤖 Robotics
 - Bluetooth-controlled robotic car with sensor integration
+- Title: Android Application based monitoring and controlling of movement of a remotely controlled Robotic car mounted with various sensors via Bluetooth. Tech: Ardiuno
+UNO, Ultrasonic Sensor, Bluetooth Module, HDT11 Sensor. (2016).
 
 ### 🔧 Embedded Systems
-- Color-based object sorting robotic system
+- Title: Design and Implementation of colour objects sorting robotics system based on programmable colour light-to frequency converter technique. Tech: Ardiuno UNO, Ultrasonic
+Sensor, Bluetooth Module, GY-31 TCS3200 Color Sensor Module. (2017).
 
 ---
 
@@ -147,16 +155,6 @@ pp. 509–517, 2024.  doi: 10.1109/TAFE.2024.3420028.
 
 ---
 
-## 🌍 Languages
-
-- English  
-- Hindi  
-- Bengali  
-- Assamese  
-- Nepali  
-
----
-
 ## 📌 Additional Contributions
 
 - Reviewer: IEEE Transactions on Instrumentation & Measurement  
@@ -165,9 +163,6 @@ pp. 509–517, 2024.  doi: 10.1109/TAFE.2024.3420028.
 
 ---
 
-## 📢 Declaration
-
-I hereby declare that all the information provided is true to the best of my knowledge.
 
 ---
 
