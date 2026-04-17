@@ -52,9 +52,13 @@ Computer Vision, Deep Learning, Precision Agriculture, Bio-medical signal proces
         <img src="Apscon.png" width="250" height="200" style="object-fit: cover;"/><br>
         <b>IEEE APSCON 2023</b>
       </td>
-      <td align="center">
+      <td align="center" style="padding-right: 20px;">
         <img src="Premi.png" width="250" height="200" style="object-fit: cover;"/><br>
         <b>PREMI 2023 Conference</b>
+      </td>
+      <td align="center">
+        <img src="Pre_thesis.jpeg" width="250" height="200" style="object-fit: cover;"/><br>
+        <b>Thesis submission, 16 April 26 </b>
       </td>
     </tr>
   </table>
