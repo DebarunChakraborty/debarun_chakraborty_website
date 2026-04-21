@@ -1,4 +1,4 @@
-# 👨‍💻 Debarun Chakraborty
+# 👨‍💻 Debarun Chakraborty (Project Research Scientist C)
 <p align="center">
   <img src="picture.png" alt="Debarun Chakraborty" width="180" style="border-radius: 50%;" />
 </p>
